@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="toolbarColor">@android:color/white</color>
+    <color name="appBackground">#ededed</color>
+    <color name="nodesBackground">@android:color/white</color>
+    <color name="mainFontColor">@android:color/black</color>
+    <color name="SecondaryFontColor">#D2CFCF</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="tagBackground">#616161</color>
+</resources>

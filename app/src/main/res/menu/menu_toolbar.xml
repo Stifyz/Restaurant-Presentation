@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/buttonLocateWhite"
+        android:title="location"
+        android:icon="@drawable/location_button_white"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/buttonCallWhite"
+        android:title="call"
+        android:icon="@drawable/phone_call_white"
+        app:showAsAction="always"/>
+
+</menu>
