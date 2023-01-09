@@ -9,4 +9,4 @@ A template app-page for restaurant and its dishes presentation with scrolling ef
 ![Alt text](/Img/img2.png?raw=true "Second Picture")
 
 
-Use of SectionedRecyclerView by truizlop Use of SectionedRecyclerView by truizlop : https://github.com/truizlop/SectionedRecyclerView.
+Use of SectionedRecyclerView by truizlop : https://github.com/truizlop/SectionedRecyclerView.
